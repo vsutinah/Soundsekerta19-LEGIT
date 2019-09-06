@@ -53,7 +53,7 @@ jQuery(function ($) {
 
 
     $('.btn-lg').click(function(){
-        window.location = "https://goo.gl/forms/DXAhoQgQ7SoZGVF53";
+        window.location = "https://linktr.ee/soundsekerta";
     });
 
 }); // JQuery end
