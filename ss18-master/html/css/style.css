@@ -475,7 +475,8 @@ button:focus,
     }
 
 .team .thumbnail img {
-    width : 85%;
+    width : 35%;
+    margin-bottom: 2rem;
     }
 
 .team .thumbnail .caption {
