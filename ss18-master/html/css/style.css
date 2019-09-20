@@ -93,7 +93,7 @@ h6 {
  * LINK STYLE
  *------------------------------------------*/
 a {
-    color              : #ff0062;
+    color              : #ebc002;
     text-decoration    : none;
     -webkit-transition : all 0.3s ease 0s;
     -moz-transition    : all 0.3s ease 0s;
@@ -148,16 +148,16 @@ ul {
 
 /*btn-primary*/
 .btn-primary {
-    background-color : #ff0062;
-    border-color     : #ff0062;
+    background-color : #0a6b44;
+    border-color     : #0a6b44;
     }
 
 .btn-primary:hover,
 .btn-primary:focus,
 .btn-primary:active:focus {
     background   : transparent;
-    color        : #ff0062;
-    border-color : #ff0062;
+    color        : #0a6b44;
+    border-color : #0a6b44;
     }
 
 /*btn-default*/
@@ -171,8 +171,8 @@ ul {
 .btn-default:focus,
 .btn-default:active:focus {
     background-color : transparent;
-    color            : #ff0062;
-    border-color     : #ff0062;
+    color            : #0a6b44;
+    border-color     : #0a6b44;
     }
 
 button:focus,
@@ -190,8 +190,9 @@ button:focus,
     }
 
 .white-bg {
-    background-color : #01213b;
+    background-color : #F5F6F7;
     }
+
 
 /* --------------------
  *  main Wrapper
@@ -277,7 +278,7 @@ button:focus,
 
 .main-menu .nav li a:hover,
 .main-menu .nav li.active a {
-    color      : #ff0062;
+    color      : #ebc002;
     background : transparent;
     }
 
@@ -316,7 +317,7 @@ button:focus,
     left               : 0;
     top                : 0;
     z-index            : 999;
-    background         : #01213b !important;
+    background         : #0a6b44 !important;
     padding            : 5px 0;
     box-shadow         : 0 2px 5px rgba(0, 0, 0, .1);
     -webkit-transition : all .5s ease-in-out;
@@ -382,7 +383,7 @@ button:focus,
     font-size   : 24px;
     font-weight : 300;
     line-height : 1.5em;
-    color       : rgba(255, 255, 255, .7);
+    color       : rgba(209, 198, 198, 0.7);
     }
 
 .jumbotron .content .event-date {
@@ -443,16 +444,16 @@ button:focus,
 
 .about-event address {
     font-size   : 15px;
-    color       : #ffffff;
+    color       : #212121;
     line-height : 1.8em;
     }
 
 .about-event address strong {
-    color : #ffffff;
+    color : #212121;
     }
 
 .about-event .container {
-    color: #ffffff;
+    color: #212121;
 }
 
 /* ----------------------------------------------
@@ -586,7 +587,7 @@ button:focus,
     color            : #ffffff;
     padding          : 14px 40px;
     margin           : 0;
-    background-color : #0e1555;
+    background-color : #0a6b44;
     }
 
 .pricing-section .pricing-head .price {
